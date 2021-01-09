@@ -3,15 +3,7 @@
 [![Header](https://raw.githubusercontent.com/thenifemi/PetShop/master/assets/images/playstoreBanner.png "Header")](https://play.google.com/store/apps/details?id=com.petshop.petshop)
 
 <p>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/intro.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/signup.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/login.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/home.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/productDetails.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/cart.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/checkout.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/forgot.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/notifications.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
+   
 </p>
 
 Pet Shop is an e-commerce application for Android built with Flutter (iOS to come soon). The goal is to implement the Flutter framework for large scale Android and iOS applications, implementing native platform features like camera accessibility, location reading, biometrics and NFC.
